@@ -99,12 +99,6 @@ Kullanıcı gizliliği korunur.
 
 ---
 
-### 📸 Ekran Görüntüleri
-
-📌 Buraya uygulama ekran görüntüleri eklenecektir
-
-> Ekran görüntülerini göndermek istersen ekleyebilirim.
-
 ---
 
 ### 👨‍💻 Geliştirici Notu
